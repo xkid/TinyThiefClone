@@ -1,6 +1,6 @@
 ﻿{
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Tiny Thief Clone",
+	"short_name": "Tiny Thief Clone",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
